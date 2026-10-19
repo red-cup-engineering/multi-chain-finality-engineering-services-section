@@ -5,8 +5,7 @@
   "description": "Sovereign chain-receipt policy assay, FOUR ACI merge, replay refusal, and exclusive-custody assay for ERC-7786 cross-chain seams.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/red-cup-engineering/computer-systems-engineering-services-section.git",
-    "directory": "services/computer-blockchain-system-services-section/services/multi-chain-finality-services-section"
+    "url": "git+https://github.com/red-cup-engineering/multi-chain-finality-services-section.git"
   },
   "exports": {
     ".": "./src/finality-merge.mjs",
