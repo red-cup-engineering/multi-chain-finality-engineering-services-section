@@ -1,11 +1,11 @@
 {
-  "name": "@red-cup-engineering/multi-chain-finality-services-section",
+  "name": "@red-cup-engineering/multi-chain-finality-engineering-services-section",
   "version": "0.1.0",
   "type": "module",
   "description": "Sovereign chain-receipt policy assay, FOUR ACI merge, replay refusal, and exclusive-custody assay for ERC-7786 cross-chain seams.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/red-cup-engineering/multi-chain-finality-services-section.git"
+    "url": "git+https://github.com/red-cup-engineering/multi-chain-finality-engineering-services-section.git"
   },
   "exports": {
     ".": "./src/finality-merge.mjs",
